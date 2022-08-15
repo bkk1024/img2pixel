@@ -5,5 +5,5 @@
 1. `npm i`，等待下载完成
 2. `npm run dev`，运行程序
 
-## 使用Vue + vite + element-plus
+## 使用Vue3 + vite + element-plus
 
